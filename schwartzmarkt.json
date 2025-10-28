@@ -1,0 +1,23 @@
+{
+  "channel_id": 1432765075340525810,
+  "title": "Schwartzmarkt",
+  "intro": "Nur f\u00fcr ausgew\u00e4hlte K\u00e4ufer.",
+  "items": {
+    "totalitarian-idol": {
+      "name": "Totalitarian Idol",
+      "description": "Protects you from one vote you bitch.",
+      "price": 20,
+      "stock": "1",
+      "public_stock": "n",
+      "role_stock": null
+    },
+    "german-shepherd": {
+      "name": "German Shepherd",
+      "description": "Looks nice, do you want to pet him?",
+      "price": 55,
+      "stock": "-",
+      "public_stock": "n",
+      "role_stock": null
+    }
+  }
+}

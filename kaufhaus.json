@@ -1,0 +1,23 @@
+{
+  "channel_id": 1432765009594683477,
+  "title": "Kaufhaus",
+  "intro": "Willkommen. Alles hat einen Preis.",
+  "items": {
+    "regular-idol": {
+      "name": "Regular Idol",
+      "description": "Protects you at tribal council.\n*Yo Yo Yo It's idol*",
+      "price": 25,
+      "stock": "0",
+      "public_stock": "y",
+      "role_stock": null
+    },
+    "contraband": {
+      "name": "Contraband",
+      "description": "Looks innocent. Isn't.",
+      "price": 3,
+      "stock": "-",
+      "public_stock": "y",
+      "role_stock": null
+    }
+  }
+}
